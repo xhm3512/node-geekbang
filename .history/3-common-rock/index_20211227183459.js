@@ -1,0 +1,1 @@
+const playerAction = process.argv[process.argv.length - 1]

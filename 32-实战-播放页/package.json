@@ -1,0 +1,17 @@
+{
+  "name": "32",
+  "version": "1.0.0",
+  "description": "",
+  "main": "graphal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^16.5.0",
+    "koa": "^2.13.4",
+    "koa-graphql": "^0.12.0",
+    "koa-mount": "^4.0.0"
+  }
+}
